@@ -119,9 +119,14 @@ O campo `horario` é responsável por armazenar a data e a hora do agendamento.
 
 ## 👥 Integrantes da equipe
 
-* Nome do integrante 1
-* Nome do integrante 2
-* Nome do integrante 3
+* Caio César Hanel Ramos
+* Gabriel da Cunha Prudencio
+* Gabriel Ferreira Américo
+* Iago Veras de Melo
+* José Adrian Cosmo de Sousa
+* Pedro Henrique Gomes de Araújo
+* Rafael Barbosa Onias Alves
+* Júlio Cesar Veríssimo
 
 ## 🌱 Relação com a extensão
 
