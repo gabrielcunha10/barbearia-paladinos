@@ -43,11 +43,9 @@ Após realizar o agendamento, o cliente recebe a mensagem:
 
 ## ✂️ Serviços
 
-* Barba Completa - R$ 25,00
 * Corte + Barba - R$ 50,00
 * Corte + Sobrancelha - R$ 45,00
-* Corte Masculino - R$ 35,00
-* Relaxamento Capilar - R$ 30,00
+* Corte Masculino - R$ 30,00
 
 Alguns serviços podem ter durações diferentes. Para manter a organização da agenda, o sistema considera blocos de horário, evitando conflitos entre atendimentos.
 
