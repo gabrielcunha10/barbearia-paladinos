@@ -31,7 +31,7 @@
                     type="email"
                     id="email"
                     name="email"
-                    placeholder="seu.email@barbearia.com"
+                    placeholder="seu.email@gmail.com"
                     required
                     autocomplete="email"
                 >
