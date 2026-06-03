@@ -53,7 +53,7 @@ Alguns serviços podem ter durações diferentes. Para manter a organização da
 
 Instagram da Barbearia Paladinos:
 
-https://www.instagram.com/barbeariapaladinosjpa?igshid=YmMyMTA2M2Y%3D
+https://www.instagram.com/barbeariapaladinosjpa
 
 ## 🧰 Tecnologias utilizadas
 
